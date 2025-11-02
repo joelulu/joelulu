@@ -10,10 +10,13 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&count_private=true&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelulu&layout=compact&theme=tokyonight)
+### 📊 My GitHub Stats
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=joelulu&theme=onedark)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelulu&theme=react-dark)
+<!-- 蓝色学术风圆环卡片 -->
+[![Huanlin Gao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&theme=default&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=joelulu&color=blueviolet)
+<!-- 蓝色圆环成绩卡 -->
+![Huanlin Gao's Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelulu&theme=github)
+
+<!-- 小徽章可选 -->
+![](https://komarev.com/ghpvc/?username=joelulu&color=blue)
