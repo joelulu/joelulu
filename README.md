@@ -12,11 +12,10 @@
 
 ### 📊 My GitHub Stats
 
-<!-- 蓝色学术风圆环卡片 -->
-[![Huanlin Gao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&theme=default&hide_border=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 并排显示两张蓝色学术风卡片 -->
+<div align="center">
 
-<!-- 蓝色圆环成绩卡 -->
-![Huanlin Gao's Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelulu&theme=github)
+  <img src="https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&theme=graywhite&title_color=1E90FF&icon_color=1E90FF&text_color=333333&border_color=E4E2E2&count_private=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joelulu&theme=github" height="160" />
 
-<!-- 小徽章可选 -->
-![](https://komarev.com/ghpvc/?username=joelulu&color=blue)
+</div>
