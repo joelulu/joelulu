@@ -6,3 +6,7 @@
 - 📫 How to reach me: [ghl@nwafu.edu.cn](mailto:ghl@nwafu.edu.cn) | [gaohl51@chinaunicom.cn](mailto:gaohl51@chinaunicom.cn)
 - 🌐 [Google Scholar](https://scholar.google.com/citations?user=Y37VKBgAAAAJ&hl=zh-CN) | [GitHub](https://github.com/joelulu)
 - ⚡ Fun fact: I enjoy blending AI research with creative projects ✨  
+
+
+![Huanlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelulu&layout=compact&theme=radical)
