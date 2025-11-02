@@ -8,5 +8,12 @@
 - ⚡ Fun fact: I enjoy blending AI research with creative projects ✨  
 
 
-![Huanlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelulu&layout=compact&theme=radical)
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=joelulu&show_icons=true&count_private=true&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelulu&layout=compact&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=joelulu&theme=onedark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelulu&theme=react-dark)
+
+![](https://komarev.com/ghpvc/?username=joelulu&color=blueviolet)
